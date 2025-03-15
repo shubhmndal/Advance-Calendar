@@ -80,7 +80,6 @@ Holidays:
 ## **Contact**
 For questions or feedback, please reach out to:
 - Shubh Mandal
-- Email: your-email@example.com
 - GitHub: [shubhmndal](https://github.com/shubhmndal)
 
 ---
